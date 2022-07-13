@@ -1,5 +1,7 @@
 # João Plínio Siqueira
 
+![Avatar](avatar.jpg)
+
 ## Dados Pessoais:
 * 30 Anos
 * Lavras/MG
@@ -16,5 +18,5 @@
 
 ### Certificados:
 1. Projetos Ágeis com Scrum - **DIO** - [Certificado](https://www.dio.me/certificate/99FB47F5/share)
-2. Introdução ao Git e ao GitHub - **DIO** [Certificado](https://www.dio.me/certificate/941A5369/share)
+2. Introdução ao Git e ao GitHub - **DIO** - [Certificado](https://www.dio.me/certificate/941A5369/share)
 3. Trabalhando com Branches no Github - **DIO** - [Certificado](https://www.dio.me/certificate/AD063B3C/share)
